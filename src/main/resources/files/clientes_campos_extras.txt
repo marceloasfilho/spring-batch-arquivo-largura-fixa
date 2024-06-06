@@ -1,0 +1,3 @@
+João;Silva;32;joao@yahoo.com;ExtraField1
+Maria;Cecilia;32;maria@gmail.com;ExtraField2
+José;Silva;32;jose@outlook.com;ExtraField3
